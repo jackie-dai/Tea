@@ -8,6 +8,7 @@ function App() {
   return (
     <div>
       <h1 className="title">How to Make Tea</h1>
+      <p className="blackText">Jackie Dai - Art 23AC</p>
       <TextBlock title="Intro" text="Today you'll learn you how to make a hot cup of tea. Take this time to relax and breathe. Forget about everything going on around you, all that matters is that you are here in this moment."></TextBlock>
       <TextBlock title="Preparing your water" text="First let's prepare the hot water. Grab a kettle and fill it with water to your desired amount."></TextBlock>
       <TextBlock title="Boiling the water" text="Press the start button located on your kettle to start boiling the water"></TextBlock>
