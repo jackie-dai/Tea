@@ -1,0 +1,12 @@
+p h1 h2 {
+    color: black;
+}
+
+.blackText {
+    color: black;
+    max-width: 600px;
+}
+
+.container {
+    border: 2px solid black;
+}
