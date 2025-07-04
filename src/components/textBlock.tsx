@@ -17,7 +17,7 @@ export default function TextBlock(props) {
                 (<img onClick={() => dropDown()} className="caret" src="/caret-down.png"></img>) :
                 (<img onClick={() => dropDown()} className="caret" src="/caret-right.png"></img>
                 )}
-            </div>
+            </div>      
             
             {clicked && <p className="blackText">{props.text}</p>}
         </div>
